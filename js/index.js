@@ -3,7 +3,6 @@ var altura = parseFloat(prompt("Digite sua altura"));
 var peso = parseFloat(prompt("Digite seu peso"));
 
 var imc = peso / altura**2;
-
 var resp = null;
 
 if(imc < 16) {
@@ -31,6 +30,5 @@ if(resp != undefined) {
     document.getElementById('result').innerHTML = ("<h2>" + nome + " possui índice de massa corporal igual a " + imc + "  kg/m², sendo classificado como: " + resp + "</h2>");
 }else {
     document.getElementById('result').innerHTML = "<h2>Valor digitado inválido</h2>";
-    
 }
 
