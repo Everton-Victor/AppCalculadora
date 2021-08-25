@@ -1,1 +1,3 @@
+const calcular = (tipo, valor) => {
 
+}
