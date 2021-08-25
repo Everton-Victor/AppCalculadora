@@ -1,8 +1,9 @@
 # Calculadora
 
 ## Objeitvo
-- É praticar os conceitos do display Fex,criando uma página responsiva
-- E usar o JS Puro para aperfeiçoar os conhecimentos
+- Praticar o desenvolvimento do Front-end usando Bootstrap
+- Criar um App responsivo
+- Aperfeiçoar os conhecimentos em JS
 
 ## Tecnologias
 - HTML
@@ -10,6 +11,6 @@
 - JS
 - Bootstrap
 
-## Imagens
-
+## Imagem
+<img src="https://github.com/Everton-Victor/AppCalculadora/blob/main/imgReadme/calculadora.PNG">
 
